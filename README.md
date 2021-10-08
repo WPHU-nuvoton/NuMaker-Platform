@@ -33,3 +33,7 @@ NuMaker Platform Resource
 
 **8. RT-Thread porting**
 - [RT-Thread](https://github.com/OpenNuvoton/rt-thread/tree/nuvoton)
+
+**9. Bluetooth Low Energy APP Demo**
+- [NuBLE-Android](https://github.com/OpenNuvoton/NuBLE-Android)
+- [NuBLE-iOS](https://github.com/OpenNuvoton/NUBLE-iOS)
